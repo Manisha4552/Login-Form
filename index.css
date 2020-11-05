@@ -1,0 +1,9 @@
+.container{
+    height: 30rem;
+    width:30%
+}
+
+.input-icon{
+  position: absolute;
+  color: blue;
+}
